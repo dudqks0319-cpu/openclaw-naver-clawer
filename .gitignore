@@ -1,6 +1,6 @@
 node_modules/
 *.log
 posts/
-*.json
+naver_blog_posts.json
 .env
 .DS_Store
