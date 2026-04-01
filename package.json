@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node crawler.js",
-    "test": "node test-crawler.js"
+    "test": "node --test test/crawler.test.js"
   },
   "keywords": [
     "crawler",
